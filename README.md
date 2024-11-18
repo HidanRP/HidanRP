@@ -1,4 +1,4 @@
-# Salut, je suis **[Ton Nom ou Pseudo GitHub]** 👋
+# Salut, je suis **Maxime (ou Maxou)** 👋
 
 Bienvenue sur mon profil GitHub ! Je suis un passionné de [ton domaine, par exemple "développement web", "science des données", "intelligence artificielle"], toujours en quête de nouveaux projets intéressants et défis à relever. 🚀
 
