@@ -35,7 +35,7 @@ Voici quelques technologies et outils avec lesquels j'aime travailler :
 
 ## 💬 Connecte-toi avec moi
 
-- **Twitch** : HidanRP (http://twitch.tv/HidanRP)
+- **Twitch** : HidanRP http://twitch.tv/HidanRP
 - **Instagram**: 
 - **LinkedIn** : 
 - **Portfolio** : 
