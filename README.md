@@ -1,14 +1,14 @@
 # Salut, je suis **Maxime (ou Maxou)** 👋
 
-Bienvenue sur mon profil GitHub ! Je suis un passionné de [ton domaine, par exemple "développement web", "science des données", "intelligence artificielle"], toujours en quête de nouveaux projets intéressants et défis à relever. 🚀
+Bienvenue sur mon profil GitHub ! Je suis un passionné de jeux-vidéos, toujours en quête de nouveaux projets intéressants et défis à relever. 🚀
 
 ## À propos de moi
 
 - 🌱 Je suis en train d'apprendre Unity, Unreal Engine ainsi que Python.
 - 👯 Je cherche à collaborer sur des projets de jeux-vidéos et des logiciels.
 - 💬 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de projets intéressants !
-- 📫 Comment me contacter : [ton email ou tes coordonnées professionnelles]
-- ⚡ Fun fact : [une anecdote amusante sur toi, comme "Je suis un joueur assidu de jeux de société !" ou "Je suis un passionné de photographie"]
+- 📫 Comment me contacter : 
+- ⚡ Fun fact : Je suis nul aux jeux.
 
 ## Mes projets récents
 
